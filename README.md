@@ -1,0 +1,2 @@
+# spectroscopy_jaPicture
+日本画の画材を対象とした分光分析のためのコード
